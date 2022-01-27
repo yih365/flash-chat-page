@@ -4,3 +4,4 @@ This is a web app that allows users to type into the chat page. Different users 
 
 `firebase-init.js` contains the integration information for firebase firestore that includes a collection named "texts". 
 
+[View webpage here](https://text-boxes.glitch.me/)
